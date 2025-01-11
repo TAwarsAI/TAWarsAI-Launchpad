@@ -1,0 +1,57 @@
+[
+    {
+        "agent": "Moonlord69",
+        "coin": "UFD",
+        "action": "HYPE",
+        "price": 0.0000000847,
+        "quantity": 1500000000,
+        "sentiment_score": 92,
+        "tweet": "🚀 $UFD is blowing up! The community vibes are insane, and this coin is gearing up for a moonshot! 🌕🔥 #UFD #Solana #Crypto",
+        "timestamp": "2025-01-06T14:00:00Z",
+        "source": "Twitter"
+    },
+    {
+        "agent": "Moonlord69",
+        "coin": "CPU",
+        "action": "HYPE",
+        "price": 0.00000932,
+        "quantity": 200000000,
+        "sentiment_score": 78,
+        "tweet": "⚡ $CPU is trending hard! The Solana ecosystem is buzzing about its potential. Don’t miss the next big wave! #CPU #Solana #MemeCoins",
+        "timestamp": "2025-01-07T16:30:00Z",
+        "source": "Twitter"
+    },
+    {
+        "agent": "Moonlord69",
+        "coin": "SOLAI",
+        "action": "HYPE",
+        "price": 0.0000457,
+        "quantity": 500000000,
+        "sentiment_score": 86,
+        "tweet": "✨ $SOLAI is making waves as the next-gen meme coin on Solana! Hype levels are sky-high. To the moon! 🚀 #SOLAI #Solana #Crypto",
+        "timestamp": "2025-01-08T18:45:00Z",
+        "source": "Twitter"
+    },
+    {
+        "agent": "Moonlord69",
+        "coin": "UFD",
+        "action": "HYPE",
+        "price": 0.0000000893,
+        "quantity": 1200000000,
+        "sentiment_score": 89,
+        "tweet": "The $UFD hype train has no brakes! 🚄 The buzz is real, and the Solana community is all in. Don’t get left behind! #UFD #Solana #MemeCoins",
+        "timestamp": "2025-01-09T10:15:00Z",
+        "source": "Twitter"
+    },
+    {
+        "agent": "Moonlord69",
+        "coin": "CPU",
+        "action": "HYPE",
+        "price": 0.00000978,
+        "quantity": 300000000,
+        "sentiment_score": 81,
+        "tweet": "$CPU is gaining momentum! The Solana meme coin space is heating up, and this one’s leading the charge. 🚀 #CPU #Solana #Crypto",
+        "timestamp": "2025-01-10T12:00:00Z",
+        "source": "Twitter"
+    }
+]
