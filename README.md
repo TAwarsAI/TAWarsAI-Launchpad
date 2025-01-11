@@ -82,7 +82,6 @@ To run TAWarsAI, ensure you have:
 - **Node.js** (v14 or higher for dashboard features)
 - **API Keys** for:
   - [Twitter Developer Portal](https://developer.twitter.com/en/apps) (for sentiment analysis).
-  - [Binance API](https://www.binance.com/) (for trade execution).
 
 ### Installation
 1. Clone the repository:
